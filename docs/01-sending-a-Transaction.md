@@ -114,9 +114,9 @@ They prove control over a key.
 
 By signing the transaction, Adi demonstrates:
 
-    1. she controls the private keys required to spend the referenced UTXOs
+    1. he controls the private keys required to spend the referenced UTXOs
 
-    2. she agrees to the exact inputs and outputs specified
+    2. he agrees to the exact inputs and outputs specified
 
 Any modification to the transaction invalidates the signature.
 
